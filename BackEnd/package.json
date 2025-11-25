@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon node Backend/src/server.js",
-    "start": "node node Backend/src/server.js "
+    "start": "node  Backend/src/server.js "
   },
   "keywords": [],
   "type": "module",
