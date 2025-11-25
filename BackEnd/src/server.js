@@ -6,7 +6,6 @@ import dotenv from "dotenv";
 import authRoutes from "./routes/auth.route.js"
 import  messageRoutes from "./routes/message.route.js"
 import path from "path";
-import { dir } from "console";
 
 
 dotenv.config();
